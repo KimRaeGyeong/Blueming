@@ -10,7 +10,7 @@
 </tr>
 <tr>
 	<th><p class="a">이 메 일</th>
-	<td> blue_ming@naver.com</td>
+	<td> blue_ming@naver.co</td>
 </tr>
 <tr>
 	<th style='letter-spacing:200%'><p class="a">주소</th>
