@@ -28,6 +28,7 @@
     </style>
 </head>
 <body>
+<form action="login_action.jsp" method="get">
 <div id="wrap">
         <br><br>
         <b><font size="6" color="gray">로그인</font></b>
@@ -50,8 +51,9 @@
                 </tr>
             </table>
             <br>
-            <input type="submit" value="OK"/>
+            <input type="submit" value="OK">
         </form>
     </div>
+</form>
 </body>
 </html>
