@@ -9,7 +9,7 @@
 <%
 	String id = request.getParameter("id");
 	String pw = request.getParameter("password");
-	pw = DigestUtils.sha512Hex(pw);
+	//pw = DigestUtils.sha512Hex(pw);
 	String user_name = null;
 %>
 <!DOCTYPE html>
